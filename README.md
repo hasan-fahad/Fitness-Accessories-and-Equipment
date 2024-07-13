@@ -38,16 +38,16 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-git clone https://github.com/sakibsarkar/XFit_client.git
+git clone https://github.com/hasan-fahad/Fitness-Accessories-and-Equipment.git
 
 ```
 
 ### Installing Dependencies
 
-Open the project file in terminal and run `yarn install`
+Open the project file in terminal and run `npm install`
 
 ```
-yarn install
+npm install
 
 ```
 
@@ -57,8 +57,7 @@ Create a .env file in the root directory of the project and add your MongoDB cre
 
 ```
 VITE_IMGBB_KEY=imgbb api key
-VITE_BASE_API=https://xfit-backend.vercel.app/api/v1
-VITE_STRIPE_PUBLISHABLE_KEY=your stripe Publish key
+VITE_BASE_API=https://fitness-accessories-server.vercel.app/api/v1
 ```
 
 ### Running the Project
