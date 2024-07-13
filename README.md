@@ -4,7 +4,7 @@
 
 Welcome to the Project repository!.
 fitness application allows users to create, edit, and delete products. Users can filter products by category, minimum/maximum price, and search by product title. Additionally, users can add items to their cart and proceed to checkout directly from the cart.
-
+Live Server[https://fitenss-accessories-client.vercel.app/]
 This README file will guide you through the steps required to set up and run the project on your local computer.
 
 ## Features
